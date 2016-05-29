@@ -1,8 +1,8 @@
 # ---
 # title:  "Next Word Prediction Using N-Grams (Good-Turing Smoothing)"
 # subtitle:   "Data Science Capstone Final Project Report"
-# author: "Binesh Sah"
-# date:   "2016-03-23 00:00:00"
+# author: "Amit Man Singh"
+# date:   "2016-05-30"
 # ---
 # server.R
 #
