@@ -38,12 +38,16 @@ The Internal of the application
 
 The application, at the core, uses N-Gram model for prediction.
 
-The accuracy of the application is not very impressive. I hope to increase its accuracy in the next release.
+Please try the the accuracy of the application youself. I hope to increase its accuracy in the next release.
 
 Getting my hands at the Application
 ========================================================
-Try it Yourself!
 
+Shiny word predictor application
+<a href="https://amitms.shinyapps.io/WordPrediction">https://amitms.shinyapps.io/WordPrediction/</a>
 
-References:
+Other source codes<br>
+<a href="https://github.com/amitms/Data_Science_Capstone">other source codes</a>
+
+References:<br>
 [1] http://www.ngrams.info/
