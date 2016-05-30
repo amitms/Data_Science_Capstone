@@ -2,8 +2,8 @@ name: WordPrediction
 account: amitms
 server: shinyapps.io
 appId: 105011
-bundleId: 465328
+bundleId: 466214
 url: https://amitms.shinyapps.io/WordPrediction/
-when: 1464506209.32371
+when: 1464616814.54394
 asMultiple: FALSE
 asStatic: FALSE
